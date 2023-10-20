@@ -9,7 +9,7 @@ Also supports playing music through multiple buzzers, dividing the currently pla
 <br>
 
 ### Usage with RPi Pico / Other CircuitPython Board 
-1. Connect your buzzer to a ground pin and either pin 7 or 26 on your Raspberry Pi Pico.
+1. Connect your buzzer to a ground pin and either pin 7 for 1 buzzer or 7 and 26 for 2 buzzers on your Raspberry Pi Pico.
 2. Install CircuitPython on your Pico and copy the files from this repository to it.
 3. Find the desired music on [Online Sequencer](https://onlinesequencer.net/), click edit, select all notes with CTRL + A, and copy them with CTRL + C.
 4. Connect a wire to the designated pins:
